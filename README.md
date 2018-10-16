@@ -38,4 +38,8 @@ Sinatra relies on Rack for its middleware. Middleware is software that bridges t
 
 Once your server is running, visit `localhost:9292` in the browser to see `Hello, World!` displayed.
 
+## Does this need an update?
+
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-sinatra-from-scratch-readme/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-sinatra-from-scratch-readme/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 <p data-visibility='hidden'>PHRG Sinatra From Scratch</p>
